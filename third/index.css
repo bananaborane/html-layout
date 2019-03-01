@@ -1,0 +1,61 @@
+body {
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+    background: WHITE;
+}
+
+p {
+    font-size: 20px;
+    padding:70px 40px;
+    background: white;
+}
+
+.container-1 {
+    margin:0px;
+    height: 13vh;
+    width: 100vw;
+    background-color: #D8D8D8;
+}
+
+.square {
+    height: 90%;
+    width: 12%;
+    background-color: #4A90E2;
+    position: relative;
+    top: 4%;
+    left: 3%;
+
+}
+
+.container-2 {
+    margin:0px;
+    height: 15vh;
+    width: 100vw;
+    background-color: #4A90E2;
+    position: relative;
+}
+
+.container-3 {
+    margin:0px;
+    height: 15vh;
+    width: 100vw;
+    background-color: #50E3C2;
+    position: relative;
+}
+
+.container-4 {
+    margin:0px;
+    height: 15vh;
+    width: 100vw;
+    background-color: #B8E986;
+    position: relative;
+}
+
+.container-5 {
+    margin:0px;
+    height: 15vh;
+    width: 100vw;
+    background-color: #F8E71C;
+    position: relative;
+}
